@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#historia, #caracteristicas, #speedcubing, #records, #formulario {
+    color: #00008B;
+}
+
+p {
+    text-align: justify;
+}
+
+#h4{
+    color: #008B8B;
+}
